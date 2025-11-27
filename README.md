@@ -1,4 +1,4 @@
-#### BlinkIT Sales Analytics – Power BI Dashboard
+## BlinkIT Sales Analytics – Power BI Dashboard
 
 <div align="justify">A fully interactive Power BI dashboard designed to analyze BlinkIT’s grocery sales performance, outlet characteristics, customer ratings, and product category distribution.</div>
 
@@ -57,7 +57,7 @@ The insights support strategic decisions in product planning, marketing, and sto
 
 - Average Rating – Customer satisfaction score
 
-Visualization Requirements
+#### Visualization Requirements
 
 1. Total Sales by Fat Content
 
