@@ -1,9 +1,9 @@
 ## BlinkIT Sales Analytics – Power BI Dashboard
 
-<div align="justify">A fully interactive Power BI dashboard designed to analyze BlinkIT’s grocery sales performance, outlet characteristics, customer ratings, and product category distribution.</div>
+A fully interactive Power BI dashboard designed to analyze BlinkIT’s grocery sales performance, outlet characteristics, customer ratings, and product category distribution.
 
+This project covers the complete BI lifecycle from data cleaning and modeling to visualization development, insights generation and delivery of a business-ready dashboard.
 
-<div align="justify">This project covers the complete BI lifecycle from data cleaning and modeling to visualization development, insights generation and delivery of a business-ready dashboard.</div>
 
 #### Project Development Steps
 
@@ -31,6 +31,7 @@ The project follows a structured end-to-end Business Intelligence workflow:
 
 ✔ Insights Extraction & Validation
 
+
 #### Business Requirement
 
 The objective is to perform a comprehensive analysis of BlinkIT’s grocery sales operations by leveraging Power BI’s analytical capabilities.
@@ -47,6 +48,7 @@ This dashboard helps stakeholders answer:
 
 The insights support strategic decisions in product planning, marketing, and store operations.
 
+
 #### Key Performance Indicators (KPIs)
 
 - Total Sales – Total revenue generated
@@ -56,6 +58,7 @@ The insights support strategic decisions in product planning, marketing, and sto
 - Number of Items – Unique products counted
 
 - Average Rating – Customer satisfaction score
+
 
 #### Visualization Requirements
 
@@ -101,9 +104,11 @@ The insights support strategic decisions in product planning, marketing, and sto
 
 - Chart Type: Matrix / KPI Card Grid
 
+
 #### Dashboard Output
 
 ![BlinkIT Dashboard](Outcomes/blinKit%20analysis%20dashboard%20outcome%20image.png)
+
 
 #### Project Structure
 
@@ -139,6 +144,7 @@ BlinkIT Analysis/
 
 └── BlinKit Analysis Dashboard.pbix
 
+
 #### Insights Summary
 
 📌 Sales Insights
@@ -161,6 +167,7 @@ BlinkIT Analysis/
 
 - Higher-rated outlets consistently show stronger sales performance.
 
+
 #### How to Use This Project
 
 1. Download or clone the repository
@@ -181,11 +188,13 @@ BlinkIT Analysis/
 
 - Fat Content
 
+
 #### Dataset
 
 The dataset is included inside the repository:
 
 /Data/BlinkIT Grocery Data.xlsx
+
 
 #### Contributing
 
