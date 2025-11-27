@@ -205,10 +205,10 @@ You may enhance:
 
 Steps:
 
-- Fork the repo
+1. Fork the repo
 
-- Create a new branch
+2. Create a new branch
 
-- Commit changes
+3. Commit changes
 
-- Submit a PR
+4. Submit a PR
